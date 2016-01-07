@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f37bad0-1cdf-4c95-bd55-78eb8c2b5e6d" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repub-genreport-rails.gemspec" afterPath="$PROJECT_DIR$/repub-genreport-rails.gemspec" />
     </list>
     <ignored path="repub-genreport-rails.iws" />
@@ -49,8 +50,8 @@
       <file leaf-file-name="repub-genreport-rails.gemspec" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/repub-genreport-rails.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6426117">
-              <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -454,8 +455,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/repub-genreport-rails.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6426117">
-          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
