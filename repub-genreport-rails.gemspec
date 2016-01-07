@@ -9,7 +9,7 @@ require 'repub/genreport/rails/version'
 
 Gem::Specification.new do |s|
   s.name        = 'repub-genreport-rails'
-  s.version     = Repub::Genreport::Rails::VERSION
+  s.version     =  '0.0.1'
   s.author      = 'rommel.semira'
   s.email       = 'rommel.semira@republisys.com'
   s.summary     = 'An open source report generation tool for Ruby.'
