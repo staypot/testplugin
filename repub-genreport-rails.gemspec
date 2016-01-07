@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Repub::Genreport::Rails::VERSION
   spec.authors       = ["rommel.semira"]
   spec.email         = ["rommel.semira@republisys.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "sample gem"
+  spec.description   = "sample gem"
   spec.homepage      = ""
   spec.license       = "MIT"
 
