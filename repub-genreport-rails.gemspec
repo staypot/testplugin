@@ -6,11 +6,11 @@ require 'repub/genreport/rails/version'
 Gem::Specification.new do |spec|
   spec.name          = "repub-genreport-rails"
   spec.version       = Repub::Genreport::Rails::VERSION
-  spec.authors       = ["rommel.semira"]
-  spec.email         = ["rommel.semira@republisys.com"]
+  spec.authors       = "rommel.semira"
+  spec.email         = "rommel.semira@republisys.com"
   spec.summary       = "sample gem"
   spec.description   = "sample gem"
-  spec.homepage      = ""
+  spec.homepage      = "http://www.abcd.org"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
